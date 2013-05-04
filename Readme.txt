@@ -1,0 +1,1 @@
+If we need to extend and add new features to program, - eg: Marine - then some problems occurs. We must change the commander class and also EnmVehicleType. As a result we use dip

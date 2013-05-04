@@ -1,0 +1,1 @@
+﻿DIP.Abstraction is referenced to this project 
